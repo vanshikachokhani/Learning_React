@@ -47,7 +47,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Write
+                Compose
               </Link>
             </li>
             <li className='nav-item'>
